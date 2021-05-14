@@ -1,0 +1,6 @@
+This is f1.txt
+
+abc
+def
+
+g
